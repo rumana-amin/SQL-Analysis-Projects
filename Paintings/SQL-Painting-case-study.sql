@@ -73,6 +73,7 @@ OR CITY LIKE '[0-9]'
 
 	
 --8. Museum_Hours table has 1 invalid entry. Identify it and remove it.
+----Could't Identify the Invalid Entry.
 Select*
 From museum_hours
 Where day is NULL;
